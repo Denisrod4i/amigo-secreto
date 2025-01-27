@@ -125,6 +125,22 @@ button {
     background-color: #a1a1a1;
 }
 
+.remove-button {
+    padding: 4px 10px;
+    margin-left: 1rem;
+    margin-bottom: 3px;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    border: 2px solid #000;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+
+.remove-button:hover {
+    background-color: #dfdfdf;
+}
+
 /* Listas */
 ul {
     list-style-type: none;
