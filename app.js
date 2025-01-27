@@ -31,6 +31,7 @@ function atualizarListaAmigos() {
         li.textContent = amigo;
 
         // Botão de remover ao lado de cada nome
+        // Achei interessante em colocar estes botões para remover os nomes caso colocasse algum nome errado
         let removeButton = document.createElement("button");
         removeButton.textContent = "Remover";
         removeButton.classList.add("remove-button"); // Adicionar classe ao botão
