@@ -17,7 +17,7 @@ Um aplicativo simples e divertido para organizar sorteios de amigo secreto. Com 
 
 - **HTML5**: Estruturação do conteúdo.
 - **CSS3**: Estilização e responsividade (arquivo `style.css`).
-- **JavaScript**: Implementação da lógica do sorteio e manipulação do DOM (arquivo `app.js`).
+- **JavaScript**: Implementação da lógica do sorteio e manipulação do HTML (arquivo `app.js`).
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white">
@@ -35,7 +35,7 @@ Um aplicativo simples e divertido para organizar sorteios de amigo secreto. Com 
 
 ## 🗂️ Como Usar
 amigo-secreto/
-├── assets/               
+|── assets/               
 │   ├── amigo-secreto.png
 │   ├── play_circle_outline.png
 │   ├── logo One.png
