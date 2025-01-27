@@ -30,7 +30,7 @@ Um aplicativo simples e divertido para organizar sorteios de amigo secreto. Com 
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/DevLuisairton/jogo_amigo_secreto
+   git clone git@github.com:Denisrod4i/amigo-secreto.git
    cd amigo-secreto
 
 ## 🗂️ Como Usar
