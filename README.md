@@ -31,9 +31,14 @@ Um aplicativo simples e divertido para organizar sorteios de amigo secreto. Com 
 ## 🛠️ Como Usar
 
 1. **Clonar o Repositório**:
-   ```bash
+   ```
    git clone git@github.com:Denisrod4i/amigo-secreto.git
-   cd amigo-secreto
+
+  <div>
+    <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
+  </div>
+
+   
    ---
 
 ## 🗂️ Pastas
@@ -50,12 +55,18 @@ amigo-secreto/
 ##  🚀 Link com Deploy 🛜🌍
 ``` link
 https://amigo-secreto-one-jet.vercel.app/
-````
- ## Autor
+```
+ 
+## Autor
  <div>
-   <img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>
+   <img loading="lazy"src="https://avatars.githubusercontent.com/u/104872198?v=4"width=115><br><sub>Denis Paulo Rodrigues</sub>
  </div>
-   ````
+
+ <div><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
+ </div>
+
+  
+
 
 
 
