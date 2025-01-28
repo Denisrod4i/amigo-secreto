@@ -50,7 +50,7 @@ amigo-secreto/
 ##  🚀 Link com Deploy 🛜🌍
 ``` link
 
-https://amigo-secreto-one-jet.vercel.app/
+<link https://amigo-secreto-one-jet.vercel.app/ >
 ```
 
 
