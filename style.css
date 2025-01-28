@@ -125,6 +125,7 @@ button {
     background-color: #a1a1a1;
 }
 
+ /* Achei interessante em colocar este botão de remoção */
 .remove-button {
     padding: 4px 10px;
     margin-left: 1rem;
