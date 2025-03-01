@@ -62,7 +62,8 @@ https://amigo-secreto-one-jet.vercel.app/
    <img loading="lazy"src="https://avatars.githubusercontent.com/u/104872198?v=4"width=115><br><sub>Denis Paulo Rodrigues</sub>
  </div>
 
- <div><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
+ <div>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
  </div>
 
   
